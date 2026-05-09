@@ -1,2 +1,1 @@
-# 0xy-core
-High-performance, ultra-low latency networking core implemented in C++. Optimized for mission-critical systems with hardware-level CPU affinity, zero-copy memory management, and lock-free concurrency.
+0xy-Core is a modular, high-throughput networking framework designed for scenarios where every microsecond matters. Built for high-frequency trading (HFT) and secure defense communication, it bypasses traditional bottlenecks by interfacing directly with the hardware.
